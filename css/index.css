@@ -29,7 +29,7 @@
 
 .navbar-light .navbar-nav .nav-link{
     color: #333333;
-    font-size: 16px;
+    font-size: 100%;
     padding: 0;
     margin-right: 5%;
 }
@@ -49,4 +49,58 @@
 .banner-bg img{
     width: 100%;
     height: 100%;
+}
+
+.patent-line{
+    margin-top: 12%;
+    padding: 0;
+    /* margin-right: 10%; */
+    padding-right: 7%;
+}
+
+.line{
+    border: 2px solid #5D0F29;
+    width: 80%;
+    /* padding-left: 8%; */
+    margin-left: 20%;
+
+}
+
+.patent-line .introduction{
+    font-style: italic;
+    color: #5D0F29;
+    font-size: 100%;
+}
+
+.patent-line .introduction-cn{
+    color: #5D0F29;
+    font-size: 200%;
+    font-weight: bold;
+    margin-top: 9%;
+}
+
+.patent-img{
+    margin-top: 8%;
+    padding: 0;
+}
+
+.patent-img img{
+    width: 90%;
+    height: 90%;
+    /* margin-right: 3.6%; */
+    padding-right: 14.5%;
+}
+
+.patent-img p {
+    margin-top: 5%;
+}
+
+.patent-img .factory-cn{
+    color: #5D0F29;
+    font-size: 112.5%;
+}
+
+.patent-img .factory-en{
+    color: #5D0F29;
+    font-size: 100%;
 }
