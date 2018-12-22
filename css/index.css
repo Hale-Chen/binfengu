@@ -23,7 +23,7 @@
 }
 
 .navbar-nav{
-    margin-left: 30%;
+    margin-left: 35%;
     width: 100%;
 }
 
@@ -31,7 +31,7 @@
     color: #333333;
     font-size: 100%;
     padding: 0;
-    margin-right: 5%;
+    margin-right: 10%;
 }
 .navbar-light .navbar-nav .nav-link:hover{
     /*font-size: 20px;*/
@@ -103,4 +103,47 @@
 .patent-img .factory-en{
     color: #5D0F29;
     font-size: 100%;
+}
+
+.icon-div{
+    margin-top: 5%;
+    padding: 0;
+}
+
+.icon-div .icon-line{
+    width: 6px;
+    height: 21px;
+    color: #5D0F29;
+    background-color: #5D0F29;
+    position: absolute;
+    margin: 0;
+
+}
+
+.icon-div .icon-text{
+    margin-left: 2%;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 400;
+    color: rgba(0,0,0,1);
+    width: 40%;
+}
+
+.icon-img-div{
+    position: absolute;
+    margin-left: 50%;
+    width: 60%;
+    margin-top: -9%;
+}
+
+.icon-div .icon-img-div .social-img{
+    margin-left: 10%;
+}
+
+.icon-div .icon-img-div .huadong-img{
+    margin-left: 15%;
+}
+
+.icon-div .icon-img-div .top-img{
+    margin-left: 18%;
 }
